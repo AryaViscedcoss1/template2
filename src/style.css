@@ -10,7 +10,10 @@ background-color: rgb(20, 20, 20);
 h5{
     color: blanchedalmond;
 }
-
+body
+{
+  padding: 2%;
+}
 .middleleft
 {
     float:left;
@@ -33,8 +36,9 @@ h5{
 .footer
 {   
     float:bottom;
-    width: 98.5%;
+    width: 98.25%;
     height: 10%;
+    padding-right: 2%;
 }
 .navbar {
     overflow: hidden;
